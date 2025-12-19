@@ -1,0 +1,9 @@
+{
+  "name": "NeonHome Services",
+  "description": "A futuristic, ultra-premium home services booking platform with instant SLAs, AR previews, and AI-driven support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
